@@ -1,3 +1,4 @@
+![logo](https://github.com/Shreyazyana/Shreyazyana/blob/main/image-2.jpg)
 <h1 align="center">Hi 👋, I'm Shreya </h1>
 <h3 align="center">A passionate Sofwtare Engineer from India</h3>
 
