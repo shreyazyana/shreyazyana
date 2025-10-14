@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 # 💫 About Me:
 
-🔭 I’m currently working on iGaming Class II & Class III games including Player Account Management.<br>👯 I’m looking to collaborate on iGaming Slots.<br>🤝 I’m looking for help with sports book iGaming.<br>🌱 I’m currently learning Coding.<br>💬 Ask me about anything related to Game Testing.<br>⚡ Fun fact I am a PC & Console Gamer.
+🔭 I’m currently working on iGaming Class II & Class III games including Player Account Management.<br>👯 I’m looking to collaborate on iGaming Slots.<br>🤝 I’m looking for help with sports book iGaming.<br>💬 Ask me about anything related to iGaming.<br>⚡ Fun fact I am a Classic Singer & Dancer.
 
 
 ## 🌐 Socials:
